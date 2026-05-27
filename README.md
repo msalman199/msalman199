@@ -36,8 +36,6 @@
 - 📦 Containerization & Orchestration
 - 🔐 Infrastructure Security & Monitoring
 - 🛠️ Infrastructure as Code (IaC)
-/top-langs/?username=zohaibahmed034&layout=compact&theme=tokyonight" height="160px"/>
-
 
 ### 🛠️ Tech Stack
 
@@ -151,17 +149,4 @@
 </div>
 
 
----
 
-### 📊 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=zohaibahmed034&show_icons=true&theme=tokyonight" height="160px"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zohaibahmed034&layout=compact&theme=tokyonight" height="160px"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zohaibahmed034&theme=tokyonight" height="200px"/>
-</p>
-
----
