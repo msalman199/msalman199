@@ -34,6 +34,188 @@
 - 🔐 Infrastructure Security & Monitoring
 - 🛠️ Infrastructure as Code (IaC)
 
+# ☁️ AWS Core Services
+
+<div align="center">
+
+# 🚀 AWS Cloud Infrastructure & Services
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF9900&center=true&vCenter=true&width=1000&lines=AWS+Cloud+Engineer;VPC+%7C+EC2+%7C+IAM+%7C+S3;Security+Groups+%7C+NACL;RDS+%7C+Route53+%7C+Lambda;Cloud+Infrastructure+Management" alt="Typing SVG" />
+
+</div>
+
+---
+
+# 🌐 Amazon VPC (Virtual Private Cloud)
+
+<div align="center">
+
+![VPC](https://img.shields.io/badge/AWS-VPC-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+</div>
+
+- Create isolated cloud networks
+- Configure public & private subnets
+- Manage route tables and gateways
+- Secure network communication
+
+---
+
+# 🖥️ Amazon EC2 (Elastic Compute Cloud)
+
+<div align="center">
+
+![EC2](https://img.shields.io/badge/AWS-EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+</div>
+
+- Launch virtual servers in AWS
+- Auto Scaling & Load Balancing
+- Linux & Windows instances
+- Secure and scalable infrastructure
+
+---
+
+# 🔐 IAM (Identity & Access Management)
+
+<div align="center">
+
+![IAM](https://img.shields.io/badge/AWS-IAM-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+</div>
+
+- Manage users and groups
+- Define roles and permissions
+- Secure AWS resources
+- Implement MFA policies
+
+---
+
+# 🛡️ Security Groups (SG)
+
+<div align="center">
+
+![Security Groups](https://img.shields.io/badge/AWS-Security_Groups-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+</div>
+
+- Instance-level firewall
+- Control inbound & outbound traffic
+- Secure EC2 communication
+- Stateful security rules
+
+---
+
+# 🚧 Network ACL (NACL)
+
+<div align="center">
+
+![NACL](https://img.shields.io/badge/AWS-NACL-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+</div>
+
+- Subnet-level firewall
+- Allow/Deny network traffic
+- Stateless security rules
+- Additional layer of protection
+
+---
+
+# 📦 Amazon S3 (Simple Storage Service)
+
+<div align="center">
+
+![S3](https://img.shields.io/badge/AWS-S3-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+</div>
+
+- Object storage service
+- Store unlimited data
+- Static website hosting
+- Backup & disaster recovery
+
+---
+
+# 💽 AMI (Amazon Machine Image)
+
+<div align="center">
+
+![AMI](https://img.shields.io/badge/AWS-AMI-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+</div>
+
+- Preconfigured EC2 templates
+- Create custom machine images
+- Faster server deployments
+- Reusable infrastructure setup
+
+---
+
+# 🗄️ Amazon RDS (Relational Database Service)
+
+<div align="center">
+
+![RDS](https://img.shields.io/badge/AWS-RDS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+</div>
+
+- Managed relational databases
+- MySQL, PostgreSQL, MariaDB
+- Automated backups & scaling
+- High availability databases
+
+---
+
+# 🌍 Route 53
+
+<div align="center">
+
+![Route53](https://img.shields.io/badge/AWS-Route_53-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+</div>
+
+- Scalable DNS service
+- Domain registration
+- Traffic routing policies
+- High availability DNS
+
+---
+
+# ⚡ AWS Lambda
+
+<div align="center">
+
+![Lambda](https://img.shields.io/badge/AWS-Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+
+</div>
+
+- Serverless compute service
+- Run code without managing servers
+- Event-driven architecture
+- Automatic scaling
+
+---
+
+# 🚀 AWS Skills Overview
+
+| AWS Service | Purpose |
+|---|---|
+| 🌐 VPC | Virtual Networking |
+| 🖥️ EC2 | Virtual Servers |
+| 🔐 IAM | Access Management |
+| 🛡️ Security Groups | Instance Firewall |
+| 🚧 NACL | Subnet Firewall |
+| 📦 S3 | Object Storage |
+| 💽 AMI | Machine Images |
+| 🗄️ RDS | Managed Database |
+| 🌍 Route 53 | DNS Management |
+| ⚡ Lambda | Serverless Computing |
+
+<div align="center">
+
+# ☁️ Build • Secure • Deploy • Scale ☁️
+
+</div>
 ### 🛠️ Tech Stack
 
 **Languages & Frameworks**
