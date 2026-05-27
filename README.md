@@ -194,7 +194,217 @@
 - Event-driven architecture
 - Automatic scaling
 
+# ⚖️ AWS Load Balancing
+
+<div align="center">
+
+# ☁️ Elastic Load Balancing (ELB)
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF9900&center=true&vCenter=true&width=1000&lines=AWS+Elastic+Load+Balancing;Application+Load+Balancer+(ALB);Network+Load+Balancer+(NLB);Gateway+Load+Balancer+(GWLB);Scalable+%7C+Secure+%7C+Highly+Available" alt="Typing SVG" />
+
+</div>
+
 ---
+
+# ⚖️ What is AWS Load Balancing?
+
+AWS Elastic Load Balancing (ELB) automatically distributes incoming application traffic across multiple targets such as:
+
+- 🖥️ EC2 Instances
+- 📦 Containers
+- ☸️ Kubernetes Services
+- 🌐 IP Addresses
+- ⚡ Lambda Functions
+
+It improves:
+
+✅ High Availability  
+✅ Scalability  
+✅ Fault Tolerance  
+✅ Application Performance  
+✅ Security  
+
+---
+
+# 🚀 Types of AWS Load Balancers
+
+---
+
+# 🌐 Application Load Balancer (ALB)
+
+<div align="center">
+
+![ALB](https://img.shields.io/badge/AWS-Application_Load_Balancer-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+</div>
+
+### 🔹 Features
+
+- Operates at Layer 7 (HTTP/HTTPS)
+- Intelligent traffic routing
+- Path-based routing
+- Host-based routing
+- Supports microservices & containers
+- SSL/TLS termination
+
+### 🔹 Use Cases
+
+✅ Web Applications  
+✅ REST APIs  
+✅ Docker Containers  
+✅ Kubernetes Ingress  
+
+---
+
+# ⚡ Network Load Balancer (NLB)
+
+<div align="center">
+
+![NLB](https://img.shields.io/badge/AWS-Network_Load_Balancer-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+</div>
+
+### 🔹 Features
+
+- Operates at Layer 4 (TCP/UDP)
+- Ultra-high performance
+- Low latency
+- Static IP support
+- Millions of requests per second
+
+### 🔹 Use Cases
+
+✅ Real-time Applications  
+✅ Gaming Servers  
+✅ Financial Applications  
+✅ TCP/UDP Traffic  
+
+---
+
+# 🔐 Gateway Load Balancer (GWLB)
+
+<div align="center">
+
+![GWLB](https://img.shields.io/badge/AWS-Gateway_Load_Balancer-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+</div>
+
+### 🔹 Features
+
+- Deploy & manage virtual appliances
+- Transparent network gateway
+- Security inspection
+- Third-party firewall integration
+
+### 🔹 Use Cases
+
+✅ Firewall Appliances  
+✅ Intrusion Detection Systems  
+✅ Deep Packet Inspection  
+✅ Security Monitoring  
+
+---
+
+# 🛡️ Classic Load Balancer (CLB)
+
+<div align="center">
+
+![CLB](https://img.shields.io/badge/AWS-Classic_Load_Balancer-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+</div>
+
+### 🔹 Features
+
+- Legacy load balancer
+- Supports Layer 4 & Layer 7
+- Basic load balancing functionality
+
+### 🔹 Use Cases
+
+✅ Legacy Applications  
+✅ Simple Architectures  
+
+---
+
+# 🔄 Load Balancer Components
+
+| Component | Purpose |
+|---|---|
+| 🎯 Target Group | Routes requests to registered targets |
+| ❤️ Health Checks | Monitors application health |
+| 🌍 Listener | Checks incoming traffic ports |
+| 📡 Routing Rules | Directs traffic based on rules |
+| 🔐 SSL/TLS | Secure encrypted communication |
+
+---
+
+# 📈 Benefits of AWS Load Balancing
+
+✅ Automatic Scaling  
+✅ High Availability  
+✅ Better Fault Tolerance  
+✅ Improved Security  
+✅ Traffic Distribution  
+✅ Zero Downtime Deployments  
+✅ Integration with Auto Scaling  
+✅ SSL Offloading  
+
+---
+
+# 🛠️ Load Balancing Workflow
+
+```text
+User Request
+      │
+      ▼
+Load Balancer (ALB/NLB)
+      │
+      ▼
+Target Group
+      │
+ ┌────┴────┐
+ ▼         ▼
+EC2       EC2
+Instance  Instance
+```
+
+---
+
+# ☁️ AWS ELB Integration Services
+
+<div align="center">
+
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+![Auto Scaling](https://img.shields.io/badge/Auto_Scaling-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+![EKS](https://img.shields.io/badge/EKS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+
+</div>
+
+---
+
+# 🚀 AWS Load Balancing Skills
+
+✅ ALB Configuration  
+✅ NLB Configuration  
+✅ SSL/TLS Management  
+✅ Auto Scaling Integration  
+✅ High Availability Architecture  
+✅ Kubernetes Ingress with ALB  
+✅ Health Checks & Monitoring  
+✅ Traffic Routing Policies  
+
+---
+
+<div align="center">
+
+# ☁️ Distribute • Scale • Secure • Optimize ☁️
+
+</div>
+
 
 # 🚀 AWS Skills Overview
 
