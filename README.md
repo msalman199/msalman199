@@ -26,9 +26,6 @@
 ---
 
 # 🚀 About Me
-
-💻 Passionate **Cloud DevOps Engineer** and **Linux Administrator** with hands-on experience in:
-
 - ☁️ Cloud Infrastructure Management
 - 🐧 Linux System Administration
 - ⚙️ Automation & Configuration Management
