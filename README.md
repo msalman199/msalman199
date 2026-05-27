@@ -149,4 +149,33 @@
 </div>
 
 
+# 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=msalman199&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msalman199&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak Stats
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=msalman199&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+# 🚀 Contribution Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=msalman199&theme=tokyo-night&hide_border=true"/>
+
+</div>
 
