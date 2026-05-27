@@ -162,4 +162,15 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=msalman199&theme=tokyo-night&hide_border=true"/>
 
 </div>
+# 👀 GitHub Profile Visitors Counter
 
+Add this code to your GitHub `README.md` file to show profile visitors count.
+
+```md
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=msalman199&label=PROFILE+VIEWS&color=blue&style=for-the-badge" alt="Profile Views" />
+</p>
+
+
+👁️ Live Preview
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=msalman199&label=PROFILE+VIEWS&color=blue&style=for-the-badge" alt="Profile Views" /> </p> ```
