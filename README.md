@@ -36,38 +36,20 @@
 - 📦 Containerization & Orchestration
 - 🔐 Infrastructure Security & Monitoring
 - 🛠️ Infrastructure as Code (IaC)
+/top-langs/?username=zohaibahmed034&layout=compact&theme=tokyonight" height="160px"/>
 
-I enjoy building scalable, secure, and automated infrastructure solutions for modern environments.
 
+### 🛠️ Tech Stack
 
-# 🐳 Containers & Orchestration
+**Languages & Frameworks**
+<p>
+<img src="https://skillicons.dev/icons?i=python,bash" />
+</p>
 
-<div align="center">
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-
-</div>
-
----
-
-# ⚙️ DevOps & Automation Tools
-
-<div align="center">
-
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-
-![Chef](https://img.shields.io/badge/Chef-F09820?style=for-the-badge&logo=chef&logoColor=white)
-
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-
-</div>
-
+**Cloud & DevOps**
+<p>
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,ansible,github,gitlab,jenkins" />
+</p>
 
 **Databases & Monitoring**
 <p>
@@ -157,3 +139,29 @@ I enjoy building scalable, secure, and automated infrastructure solutions for mo
     background: linear-gradient(180deg, rgba(255,255,255,0.01), rgba(0,0,0,0.02));
     box-shadow: 0 10px 26px rgba(0,0,0,0.45), 0 0 36px rgba(0,255,140,0.03);
     border: 1px solid rgba(255,255,255,0.02);
+  ">
+    <img src="https://img.shields.io/badge/-CloudFoundry-0C9ED5?style=for-the-badge&logo=cloudfoundry&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Azure-0078D7?style=for-the-badge&logo=microsoftazure&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+    <img src="https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" />
+  </div>
+
+</div>
+
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=zohaibahmed034&show_icons=true&theme=tokyonight" height="160px"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zohaibahmed034&layout=compact&theme=tokyonight" height="160px"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zohaibahmed034&theme=tokyonight" height="200px"/>
+</p>
+
+---
