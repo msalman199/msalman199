@@ -1,24 +1,6 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=0:8B0000,50:FF0000,100:FFFFFF&text=Hafiz%20Muhammad%20Salman&fontColor=ffffff&fontSize=48&fontAlign=50&fontAlignY=40&desc=Cloud%20DevOps%20Engineer%20%7C%20Linux%20Administrator&descAlignY=62&descAlign=50&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=12,20,14,2,24&text=Hafiz%20Muhammad%20Salman&fontColor=ffffff&fontSize=48&fontAlign=50&fontAlignY=40&desc=Cloud%20DevOps%20Engineer%20%7C%20Linux%20Administrator%20%7C%20%2B92%20314%203563640&descAlignY=62&descAlign=50&animation=fadeIn" />
 </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=FF0000&center=true&vCenter=true&width=900&lines=☁️+Cloud+DevOps+Engineer;🐧+Linux+Administrator;🚀+AWS+%7C+Docker+%7C+Kubernetes;📞+%2B92+314+3563640" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-FFFFFF?style=for-the-badge&logo=linux&logoColor=red" />
-  <img src="https://img.shields.io/badge/AWS-FF0000?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-FFFFFF?style=for-the-badge&logo=docker&logoColor=red" />
-  <img src="https://img.shields.io/badge/Kubernetes-FF0000?style=for-the-badge&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/Ansible-FFFFFF?style=for-the-badge&logo=ansible&logoColor=red" />
-  <img src="https://img.shields.io/badge/Jenkins-FF0000?style=for-the-badge&logo=jenkins&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=msalman199&label=PROFILE+VIEWS&color=FF0000&style=for-the-badge" />
-</p>
-
 # 👨‍💻 Hafiz Muhammad Salman
 
 <div align="center">
