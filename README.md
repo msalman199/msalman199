@@ -51,13 +51,6 @@
 <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" /> 
 <img src="https://skillicons.dev/icons?i=grafana,prometheus" />
 </p>
-
-# 🛡️ Cyber Security • Governance • Risk • Compliance
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00FFB3&center=true&vCenter=true&width=1100&lines=Cyber+Security+Engineer;Governance+Risk+%26+Compliance+(GRC);SOC+Monitoring+%7C+Risk+Management;Cloud+Security+%7C+SIEM+%7C+IAM;Security+Automation+%7C+Compliance+Frameworks" alt="Typing SVG" />
-
-</div>
-
 ---
 ### 🧰 Stack I Work With
 
