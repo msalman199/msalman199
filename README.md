@@ -1,7 +1,18 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=12,20,14,2,24&text=Hafiz%20Muhammad%20Salman&fontColor=ffffff&fontSize=48&fontAlign=50&fontAlignY=40&desc=Cloud%20DevOps%20Engineer%20%7C%20Linux%20Administrator%20%7C%20%2B92%20314%203563640&descAlignY=62&descAlign=50&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=350
+  &color=gradient
+  &customColorList=6,14,20,24,30
+  &text=Hafiz%20Muhammad%20Salman
+  &fontColor=ffffff
+  &fontSize=52
+  &fontAlign=50
+  &fontAlignY=38
+  &desc=Cloud%20DevOps%20Engineer%20%7C%20Linux%20Administrator%20%7C%20AI%20Ops%20Learner
+  &descAlign=50
+  &descAlignY=58
+  &animation=fadeIn"
+  />
 </p>
-<div align="center">
 
 # ☁️ Cloud DevOps Engineer & 🐧 Linux Administrator
 
