@@ -1,3 +1,9 @@
+<h1 align="center">👋 Welcome to My GitHub Profile</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Cloud+DevOps+Engineer;Linux+Administrator;Automation+Enthusiast;AWS+%7C+Ansible+%7C+Docker+%7C+Kubernetes" alt="Typing SVG" />
+</p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=350
   &color=gradient
