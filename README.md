@@ -24,7 +24,16 @@
 
 </div>
 
----
+# 🚀 Diploma in Artificial Intelligence Operations (RQF Level 6)
+
+![AI Ops Banner](https://img.shields.io/badge/Diploma-AI%20Operations-blue?style=for-the-badge)
+![RQF Level](https://img.shields.io/badge/RQF-Level%206-red?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-Admin-yellow?style=for-the-badge&logo=linux)
+![DevOps](https://img.shields.io/badge/DevOps-Engineer-green?style=for-the-badge&logo=devops)
+![Ansible](https://img.shields.io/badge/Ansible-Automation-black?style=for-the-badge&logo=ansible)
+![Cloud](https://img.shields.io/badge/Cloud-Computing-orange?style=for-the-badge&logo=icloud)
+
+I am currently pursuing a **Diploma in Artificial Intelligence Operations** from **Al Nafi**, which is equivalent to a **Bachelor’s Level Program** and is officially aligned with **RQF Level 6 standards**.
 
 # 🚀 About Me
 - ☁️ Cloud Infrastructure Management
