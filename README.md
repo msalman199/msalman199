@@ -1,8 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=12,20,14,2,24&text=Hafiz%20Muhammad%20Salman&fontColor=ffffff&fontSize=48&fontAlign=50&fontAlignY=40&desc=Cloud%20DevOps%20Engineer%20%7C%20Linux%20Administrator%20%7C%20%2B92%20314%203563640&descAlignY=62&descAlign=50&animation=fadeIn" />
 </p>
-# 👨‍💻 Hafiz Muhammad Salman
-
 <div align="center">
 
 # ☁️ Cloud DevOps Engineer & 🐧 Linux Administrator
