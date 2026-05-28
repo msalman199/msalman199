@@ -34,6 +34,30 @@
 ![Git](https://img.shields.io/badge/Version_Control-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=320
+  &color=gradient
+  &customColorList=6,14,20,24,30
+  &text=Hafiz%20Muhammad%20Salman
+  &fontColor=ffffff
+  &fontSize=50
+  &fontAlign=50
+  &fontAlignY=40
+  &desc=AI%20Operations%20Diploma%20Student%20%7C%20Al%20Nafi
+  &descAlign=50
+  &descAlignY=60
+  &animation=fadeIn"
+  />
+</p>
+
+---
+
+## 🙋‍♂️ About Me
+
+Hello! 👋  
+My name is **Hafiz Muhammad Salman**.
+
+I am currently pursuing a **Diploma in Artificial Intelligence Operations (AIOps)** from **Al Nafi**, which is an industry-focused program designed to build strong skills in modern IT, Cloud, DevOps, and AI-driven infrastructure management.
 
 # 🚀 Diploma in Artificial Intelligence Operations (RQF Level 6)
 
@@ -44,16 +68,32 @@
 ![Ansible](https://img.shields.io/badge/Ansible-Automation-black?style=for-the-badge&logo=ansible)
 ![Cloud](https://img.shields.io/badge/Cloud-Computing-orange?style=for-the-badge&logo=icloud)
 
-I am currently pursuing a **Diploma in Artificial Intelligence Operations** from **Al Nafi**, which is equivalent to a **Bachelor’s Level Program** and is officially aligned with **RQF Level 6 standards**.
 
-# 🚀 About Me
-- ☁️ Cloud Infrastructure Management
+## 🎓 My Education Path
+
+- 📘 Diploma: Artificial Intelligence Operations (AIOps)
+- 🏫 Institute: Al Nafi
+- 🎯 Level: RQF Level 6 (Bachelor Equivalent)
+- 💻 Focus Areas:
+  - Cloud Computing ☁️
+  - DevOps Automation ⚙️
+  - Linux Administration 🐧
+  - Cyber Security 🔐
+  - Infrastructure as Code 📦
+  - AI in IT Operations 🤖
+
+---
+
+## 🚀 What I Am Learning
+
+I am continuously building my skills in:
+
 - 🐧 Linux System Administration
-- ⚙️ Automation & Configuration Management
-- 🚀 CI/CD Pipeline Implementation
-- 📦 Containerization & Orchestration
-- 🔐 Infrastructure Security & Monitoring
-- 🛠️ Infrastructure as Code (IaC)
+- ⚙️ Ansible Automation & Configuration Management
+- ☁️ Cloud Infrastructure Concepts
+- 🔐 Security Hardening (SELinux, Firewall, SSH)
+- 📊 Monitoring & Logging Systems
+- 🤖 AI-driven IT Operations (AIOps concepts)
 ### 🛠️ Tech Stack
 
 **Languages & Frameworks**
