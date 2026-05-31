@@ -2,6 +2,13 @@
 </p>
 <h1 align="center">👋 Welcome to My GitHub Profile</h1>
 <p align="center">
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Cloud+DevOps+Engineer;Linux+System+Administrator;Ansible+Automation+Engineer;Containerization+with+Docker+%26+Podman;Kubernetes+%26+OpenShift+Enthusiast;CI%2FCD+Pipeline+Automation;Infrastructure+as+Code+(IaC);Always+Learning+New+Technologies" />
+</p>
+
+
+
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Cloud+DevOps+Engineer;Linux+Administrator;Automation+Enthusiast;AWS+%7C+Ansible+%7C+Docker+%7C+Kubernetes" alt="Typing SVG" />
 </p>
 <p align="center">
