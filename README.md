@@ -1,7 +1,7 @@
 
 <!-- Custom Animated Banner -->
 <p align="center">
-  <img src="banner.svg" alt="Abdullah bin Amin Banner" width="100%" />
+  <img src="banner.svg" alt="Hafiz Muhammad Salman" width="100%" />
 </p>
 <h1 align="center">👋 Welcome to My GitHub Profile</h1>
 <p align="center">
