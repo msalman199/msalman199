@@ -1,4 +1,3 @@
-
 <!-- Custom Animated Banner -->
 <p align="center">
   <img src="banner.svg" alt="Hafiz Muhammad Salman" width="100%" />
