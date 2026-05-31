@@ -1,3 +1,4 @@
+<img src="your-uploaded-image-link.gif" width="100%" alt="My Profile Banner">
 
 </p>
 <h1 align="center">👋 Welcome to My GitHub Profile</h1>
