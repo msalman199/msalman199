@@ -136,7 +136,7 @@ I am continuously building my skills in:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=msalman199&theme=transparent" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=msalman199&theme=transparent&utcOffset=5" />
 </div>
-# 🔥 GitHub Streak Stats
+ 🔥 GitHub Streak Stats
 
 <div align="center">
 
@@ -148,12 +148,8 @@ I am continuously building my skills in:
 
 # 🚀 Contribution Graph
 
-<div align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=msalman199&theme=tokyo-night&hide_border=true"/>
 
-
-  />
 </div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=msalman199&label=PROFILE+VIEWS&color=blue&style=for-the-badge" alt="Profile Views" /> </p> 
