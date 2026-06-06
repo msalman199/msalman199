@@ -118,7 +118,24 @@ I am continuously building my skills in:
   <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,linux,bash,python,nodejs,nextjs,flutter,firebase,supabase,mysql,postgres,redis,git,github,githubactions,jenkins,ansible,nginx,prometheus,grafana,tensorflow,pytorch,opencv,vscode,vercel,perline=14" />
 </p>
 
-# 📊 GitHub Statistics
+> *"Great products need more than code - they need infrastructure built to survive production."*
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0382.gif" alt="animated line" width="100%" height="2" />
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=msalman199&theme=transparent" />
+  <br><br>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=msalman199&theme=transparent" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=msalman199&theme=transparent" />
+
+  <br><br>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=msalman199&theme=transparent" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=msalman199&theme=transparent&utcOffset=5" />
+</div>
 # 🔥 GitHub Streak Stats
 
 <div align="center">
@@ -146,4 +163,6 @@ I am continuously building my skills in:
 </p>
 
 
+
+  
 
