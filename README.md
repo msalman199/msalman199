@@ -4,6 +4,10 @@
 <h1 align="center">👋 Welcome to My GitHub Profile</h1>
 <p align="center">
 
+</p>
+
+
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=350
   &color=gradient
@@ -110,23 +114,18 @@ I am continuously building my skills in:
 - 📊 Monitoring & Logging Systems
 - 🤖 AI-driven IT Operations (AIOps concepts)
 ### 🛠️ Tech Stack
-
-**Languages & Frameworks**
-<p>
-<img src="https://skillicons.dev/icons?i=python,bash" />
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,linux,bash,python,nodejs,nextjs,flutter,firebase,supabase,mysql,postgres,redis,git,github,githubactions,jenkins,ansible,nginx,prometheus,grafana,tensorflow,pytorch,opencv,vscode,vercel,perline=14" />
 </p>
 
-**Cloud & DevOps**
-<p>
-<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,ansible,github,gitlab,jenkins" />
+<p align="center">
+  <img src="https://img.shields.io/badge/ChatGPT-000000?style=plastic&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97706?style=plastic&logo=anthropic&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=plastic&logo=google&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cursor-111111?style=plastic&logo=cursor&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=plastic&logo=githubcopilot&logoColor=white" />
 </p>
 
-**Databases & Monitoring**
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" /> 
-<img src="https://skillicons.dev/icons?i=grafana,prometheus" />
-</p>
----
 ### 🧰 Stack I Work With
 
 <div align="center" style="
