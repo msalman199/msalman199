@@ -20,13 +20,6 @@
   />
 </p>
 
-# ☁️ Cloud DevOps Engineer & 🐧 Linux Administrator
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Cloud+DevOps+Engineer;Linux+System+Administrator;Automation+%7C+CI%2FCD+%7C+Infrastructure+as+Code;Ansible+%7C+Docker+%7C+Kubernetes;AWS+%7C+Linux+%7C+Bash+Scripting" alt="Typing SVG" />
-
-</div>
-
-
 <p align="center">
   <img src="assets/image1.gif" width="100" />
   <img src="assets/image2.gif" width="100" />
@@ -38,7 +31,11 @@
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0382.gif" alt="animated line" width="100%" height="2" />
 
----
+
+# ☁️ Cloud DevOps Engineer & 🐧 Linux Administrator
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Cloud+DevOps+Engineer;Linux+System+Administrator;Automation+%7C+CI%2FCD+%7C+Infrastructure+as+Code;Ansible+%7C+Docker+%7C+Kubernetes;AWS+%7C+Linux+%7C+Bash+Scripting" alt="Typing SVG" />
+
 
 <div align="center">
 
