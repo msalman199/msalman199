@@ -118,34 +118,25 @@ I am continuously building my skills in:
   <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,linux,bash,python,nodejs,nextjs,flutter,firebase,supabase,mysql,postgres,redis,git,github,githubactions,jenkins,ansible,nginx,prometheus,grafana,tensorflow,pytorch,opencv,vscode,vercel,perline=14" />
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/ChatGPT-000000?style=plastic&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Claude-D97706?style=plastic&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=plastic&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cursor-111111?style=plastic&logo=cursor&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Copilot-181717?style=plastic&logo=githubcopilot&logoColor=white" />
-</p>
-
-
-
-# 📊 GitHub Statistics
-# 🔥 GitHub Streak Stats
-
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=msalman199&theme=tokyonight&hide_border=true"/>
-
+  <img src="https://raw.githubusercontent.com/msalman199/msalman199/main/profile-summary-card-output/transparent/0-profile-details.svg" />
+  <br><br>
+  <img src="https://raw.githubusercontent.com/msalman199/msalman199/main/profile-summary-card-output/transparent/1-repos-per-language.svg" />
+  <img src="https://raw.githubusercontent.com/msalman199/msalman199/main/profile-summary-card-output/transparent/2-most-commit-language.svg" />
+  <br><br>
+  <img src="https://raw.githubusercontent.com/msalman199/msalman199/main/profile-summary-card-output/transparent/3-stats.svg" />
+  <img src="https://raw.githubusercontent.com/msalman199/msalman199/main/profile-summary-card-output/transparent/4-productive-time.svg" />
 </div>
 
----
-
-# 🚀 Contribution Graph
+<br/>
 
 <div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=msalman199&theme=tokyo-night&hide_border=true"/>
-
-
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=msalman199&bg_color=00000000&color=58a6ff&line=58a6ff&point=79c0ff&area=true&area_color=1f6feb&hide_border=true"
+    width="820"
+    alt="GitHub Activity Graph"
+  />
+</div>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=msalman199&label=PROFILE+VIEWS&color=blue&style=for-the-badge" alt="Profile Views" /> </p> 
 
