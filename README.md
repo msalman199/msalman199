@@ -5,37 +5,25 @@
 <p align="center">
 
 </p>
+Now I'll create a stunning GitHub banner as an HTML file with a "reading code" terminal aesthetic — complete with animated typing effects, your personal info, and a pro DevOps/Linux sysadmin theme.Your GitHub banner is ready! Here's what's packed into it:
 
-devops_profile.py
-Python 3.11
-UTF-8
-LF
-# ── Cloud DevOps & Linux SysAdmin Profile ──────────────
-# Author : Hafiz Muhammad Salman
-# Updated: 2025  |  Version: 3.14.0
- 
-from expertise import CloudDevOps, LinuxSysAdmin
-from tools     import docker, kubernetes, terraform
-from cloud     import AWS, GCP, Azure
- 
-@dataclass
-class Engineer:
-    name    : str = "Hafiz Muhammad Salman"
-    role    : list = [
-        "Cloud DevOps Engineer",
-        "Linux System Administrator",
-    ]
-    email   : str = "hafizmuhammadsalman13@gmail.com"
-    mobile  : str = "+92 314 356 3640"
- 
-    cloud   : list = ["AWS", "GCP", "Azure"]
-    iac     : list = ["Terraform", "Ansible", "CloudFormation"]
-    ci_cd   : list = ["GitHub Actions", "Jenkins", "ArgoCD"]
-    os      : list = ["RHEL", "Ubuntu", "CentOS", "Debian"]
-    monitor : list = ["Prometheus", "Grafana", "ELK Stack"]
- 
-    def greet(self) -> str:
-        return (
+**Design concept — VS Code / terminal IDE aesthetic:**
+- Dark GitHub-native color palette (`#0d1117` background) so it blends perfectly on your profile
+- Window chrome with red/yellow/green dots and open file tabs (`devops_profile.py`, `sysadmin.sh`, `infra.tf`)
+- Line numbers, syntax highlighting, and a blinking cursor — like real code being written live
+- Animated scanline overlay for that authentic terminal feel
+
+**Your info in the right panel:**
+- Avatar with your initials **HMS** + an online pulse dot
+- Your full name & handle
+- Role badges: ☁ Cloud DevOps Engineer · 🐧 Linux SysAdmin · ⚙ Infrastructure Automation
+- Email and mobile number with icons
+- 8-slot tech stack grid (Docker/K8s, AWS/GCP/Azure, Terraform, CI/CD, Bash/Python, RHEL/Ubuntu, Prometheus/Grafana, Nginx)
+
+**How to use it on GitHub:**
+1. Open the HTML file in your browser
+2. Screenshot or use a browser extension to export it as a PNG (1280×640px)
+3. Upload it as your GitHub profile README banner or repository social preview image
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=350
