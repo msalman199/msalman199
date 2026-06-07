@@ -6,7 +6,36 @@
 
 </p>
 
-
+devops_profile.py
+Python 3.11
+UTF-8
+LF
+# ── Cloud DevOps & Linux SysAdmin Profile ──────────────
+# Author : Hafiz Muhammad Salman
+# Updated: 2025  |  Version: 3.14.0
+ 
+from expertise import CloudDevOps, LinuxSysAdmin
+from tools     import docker, kubernetes, terraform
+from cloud     import AWS, GCP, Azure
+ 
+@dataclass
+class Engineer:
+    name    : str = "Hafiz Muhammad Salman"
+    role    : list = [
+        "Cloud DevOps Engineer",
+        "Linux System Administrator",
+    ]
+    email   : str = "hafizmuhammadsalman13@gmail.com"
+    mobile  : str = "+92 314 356 3640"
+ 
+    cloud   : list = ["AWS", "GCP", "Azure"]
+    iac     : list = ["Terraform", "Ansible", "CloudFormation"]
+    ci_cd   : list = ["GitHub Actions", "Jenkins", "ArgoCD"]
+    os      : list = ["RHEL", "Ubuntu", "CentOS", "Debian"]
+    monitor : list = ["Prometheus", "Grafana", "ELK Stack"]
+ 
+    def greet(self) -> str:
+        return (
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=350
