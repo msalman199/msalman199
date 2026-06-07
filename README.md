@@ -6,7 +6,517 @@
 
 </p>
 
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8"/>
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+<title>GitHub Banner – Hafiz Muhammad Salman</title>
+<link href="https://fonts.googleapis.com/css2?family=Fira+Code:wght@300;400;500;600;700&family=JetBrains+Mono:wght@300;400;700&display=swap" rel="stylesheet"/>
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
+  :root {
+    --bg:        #0d1117;
+    --bg2:       #161b22;
+    --bg3:       #21262d;
+    --border:    #30363d;
+    --green:     #3fb950;
+    --green-dim: #238636;
+    --cyan:      #79c0ff;
+    --yellow:    #e3b341;
+    --orange:    #f0883e;
+    --red:       #ff7b72;
+    --purple:    #d2a8ff;
+    --white:     #e6edf3;
+    --muted:     #8b949e;
+    --prompt:    #3fb950;
+  }
+
+  body {
+    background: var(--bg);
+    font-family: 'Fira Code', 'JetBrains Mono', monospace;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    padding: 20px;
+  }
+
+  .banner {
+    width: 1280px;
+    height: 640px;
+    background: var(--bg);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    overflow: hidden;
+    position: relative;
+    display: flex;
+    flex-direction: column;
+  }
+
+  /* ── scanline overlay ── */
+  .banner::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: repeating-linear-gradient(
+      0deg,
+      transparent,
+      transparent 3px,
+      rgba(0,0,0,0.06) 3px,
+      rgba(0,0,0,0.06) 4px
+    );
+    pointer-events: none;
+    z-index: 10;
+  }
+
+  /* ── window chrome ── */
+  .titlebar {
+    background: var(--bg2);
+    border-bottom: 1px solid var(--border);
+    padding: 10px 16px;
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    flex-shrink: 0;
+  }
+  .dot { width: 12px; height: 12px; border-radius: 50%; }
+  .dot.red    { background: #ff5f57; }
+  .dot.yellow { background: #febc2e; }
+  .dot.green  { background: #28c840; }
+  .tab-label {
+    margin-left: 12px;
+    font-size: 11px;
+    color: var(--muted);
+    background: var(--bg3);
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    padding: 2px 10px;
+  }
+  .tab-label span { color: var(--cyan); }
+
+  /* ── main layout ── */
+  .content {
+    display: grid;
+    grid-template-columns: 1fr 1px 420px;
+    flex: 1;
+    overflow: hidden;
+  }
+
+  /* ── code panel ── */
+  .code-panel {
+    background: var(--bg);
+    padding: 0;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+  }
+
+  .code-file-header {
+    background: var(--bg2);
+    border-bottom: 1px solid var(--border);
+    padding: 6px 16px;
+    font-size: 11px;
+    color: var(--muted);
+    display: flex;
+    gap: 16px;
+  }
+  .code-file-header .fname { color: var(--cyan); }
+
+  .code-body {
+    flex: 1;
+    overflow: hidden;
+    display: flex;
+    padding: 12px 0;
+  }
+
+  .line-nums {
+    width: 48px;
+    text-align: right;
+    padding-right: 16px;
+    color: #3d444d;
+    font-size: 12.5px;
+    line-height: 1.65;
+    user-select: none;
+    flex-shrink: 0;
+  }
+
+  .code-lines {
+    flex: 1;
+    font-size: 12.5px;
+    line-height: 1.65;
+    padding-right: 16px;
+  }
+
+  .line { display: block; white-space: pre; }
+  .line.hl { background: rgba(56,139,253,0.08); border-left: 2px solid #388bfd; padding-left: 6px; margin-left: -8px; }
+
+  /* syntax colors */
+  .kw  { color: var(--red); }
+  .fn  { color: var(--purple); }
+  .str { color: var(--green); }
+  .cmt { color: #6e7681; font-style: italic; }
+  .var { color: var(--cyan); }
+  .num { color: var(--orange); }
+  .op  { color: var(--white); }
+  .cls { color: var(--yellow); }
+  .dec { color: var(--orange); }
+
+  /* cursor blink */
+  .cursor {
+    display: inline-block;
+    width: 8px;
+    height: 14px;
+    background: var(--green);
+    vertical-align: middle;
+    animation: blink 1s step-end infinite;
+    margin-left: 2px;
+  }
+  @keyframes blink { 0%,100%{opacity:1} 50%{opacity:0} }
+
+  /* ── divider ── */
+  .divider { background: var(--border); flex-shrink: 0; }
+
+  /* ── info panel ── */
+  .info-panel {
+    background: var(--bg2);
+    padding: 28px 24px;
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+    overflow: hidden;
+  }
+
+  .avatar-row {
+    display: flex;
+    align-items: center;
+    gap: 14px;
+    margin-bottom: 18px;
+  }
+
+  .avatar {
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+    border: 2px solid var(--green-dim);
+    background: var(--bg3);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 24px;
+    flex-shrink: 0;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .avatar-inner {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: linear-gradient(135deg, #238636 0%, #0d6efd 100%);
+    font-size: 22px;
+    font-weight: 700;
+    color: #fff;
+    letter-spacing: -1px;
+  }
+
+  .online-dot {
+    position: absolute;
+    bottom: 3px;
+    right: 3px;
+    width: 11px;
+    height: 11px;
+    background: var(--green);
+    border-radius: 50%;
+    border: 2px solid var(--bg2);
+    animation: pulse 2s ease-in-out infinite;
+  }
+  @keyframes pulse {
+    0%,100% { box-shadow: 0 0 0 0 rgba(63,185,80,0.5); }
+    50%      { box-shadow: 0 0 0 5px rgba(63,185,80,0); }
+  }
+
+  .name-block { flex: 1; min-width: 0; }
+  .fullname {
+    font-size: 15px;
+    font-weight: 700;
+    color: var(--white);
+    letter-spacing: 0.3px;
+    line-height: 1.2;
+  }
+  .handle {
+    font-size: 11px;
+    color: var(--muted);
+    margin-top: 2px;
+  }
+  .handle span { color: var(--green); }
+
+  /* role badges */
+  .badges {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin-bottom: 18px;
+  }
+  .badge {
+    font-size: 10px;
+    padding: 3px 9px;
+    border-radius: 20px;
+    font-weight: 600;
+    letter-spacing: 0.4px;
+  }
+  .badge.blue   { background: rgba(31,111,235,0.15); color: #79c0ff; border: 1px solid rgba(31,111,235,0.35); }
+  .badge.green  { background: rgba(35,134,54,0.15);  color: #3fb950; border: 1px solid rgba(35,134,54,0.35); }
+  .badge.orange { background: rgba(240,136,62,0.15); color: #f0883e; border: 1px solid rgba(240,136,62,0.35); }
+
+  /* contact rows */
+  .section-label {
+    font-size: 9px;
+    letter-spacing: 1.5px;
+    color: #3d444d;
+    text-transform: uppercase;
+    margin-bottom: 8px;
+    margin-top: 4px;
+  }
+
+  .contact-row {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    margin-bottom: 7px;
+  }
+  .contact-icon {
+    width: 22px;
+    height: 22px;
+    flex-shrink: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .contact-icon svg { width: 14px; height: 14px; }
+  .contact-val {
+    font-size: 11.5px;
+    color: var(--cyan);
+    word-break: break-all;
+  }
+
+  /* skill grid */
+  .skill-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 5px;
+    margin-top: 14px;
+  }
+  .skill-item {
+    background: var(--bg3);
+    border: 1px solid var(--border);
+    border-radius: 5px;
+    padding: 5px 8px;
+    font-size: 10px;
+    color: var(--muted);
+    display: flex;
+    align-items: center;
+    gap: 5px;
+  }
+  .skill-dot {
+    width: 6px; height: 6px;
+    border-radius: 50%;
+    flex-shrink: 0;
+  }
+  .skill-dot.g { background: var(--green); }
+  .skill-dot.b { background: var(--cyan); }
+  .skill-dot.o { background: var(--orange); }
+  .skill-dot.p { background: var(--purple); }
+  .skill-dot.y { background: var(--yellow); }
+
+  /* status bar */
+  .statusbar {
+    background: var(--green-dim);
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    padding: 3px 16px;
+    font-size: 10px;
+    color: rgba(255,255,255,0.85);
+    flex-shrink: 0;
+    letter-spacing: 0.3px;
+  }
+  .statusbar .sep { opacity: 0.4; }
+
+  /* animations */
+  .fade-in { animation: fadeIn 0.6s ease both; }
+  @keyframes fadeIn { from{opacity:0;transform:translateY(6px)} to{opacity:1;transform:none} }
+
+  .slide-right { animation: slideR 0.5s ease both; }
+  @keyframes slideR { from{opacity:0;transform:translateX(12px)} to{opacity:1;transform:none} }
+
+  /* stagger helpers */
+  .d1{animation-delay:.1s} .d2{animation-delay:.2s} .d3{animation-delay:.3s}
+  .d4{animation-delay:.4s} .d5{animation-delay:.5s} .d6{animation-delay:.6s}
+  .d7{animation-delay:.7s} .d8{animation-delay:.8s} .d9{animation-delay:.9s}
+</style>
+</head>
+<body>
+
+<div class="banner">
+
+  <!-- Window chrome -->
+  <div class="titlebar">
+    <div class="dot red"></div>
+    <div class="dot yellow"></div>
+    <div class="dot green"></div>
+    <div class="tab-label">📄 <span>devops_profile.py</span></div>
+    <div class="tab-label" style="color:#6e7681;">📄 <span style="color:#6e7681;">sysadmin.sh</span></div>
+    <div class="tab-label" style="color:#6e7681;">📄 <span style="color:#6e7681;">infra.tf</span></div>
+  </div>
+
+  <!-- Main content -->
+  <div class="content">
+
+    <!-- Left: Code panel -->
+    <div class="code-panel">
+      <div class="code-file-header">
+        <span class="fname">devops_profile.py</span>
+        <span>Python 3.11</span>
+        <span>UTF-8</span>
+        <span>LF</span>
+      </div>
+      <div class="code-body">
+        <div class="line-nums">
+          1<br>2<br>3<br>4<br>5<br>6<br>7<br>8<br>9<br>10<br>
+          11<br>12<br>13<br>14<br>15<br>16<br>17<br>18<br>19<br>20<br>
+          21<br>22<br>23<br>24<br>25<br>26<br>27<br>28<br>29<br>30<br>
+          31<br>32<br>33<br>34<br>35<br>36<br>37<br>38
+        </div>
+        <div class="code-lines">
+<span class="line cmt"># ── Cloud DevOps &amp; Linux SysAdmin Profile ──────────────</span>
+<span class="line cmt"># Author : Hafiz Muhammad Salman</span>
+<span class="line cmt"># Updated: 2025  |  Version: 3.14.0</span>
+<span class="line"> </span>
+<span class="line"><span class="kw">from</span> <span class="var">expertise</span> <span class="kw">import</span> <span class="cls">CloudDevOps</span><span class="op">,</span> <span class="cls">LinuxSysAdmin</span></span>
+<span class="line"><span class="kw">from</span> <span class="var">tools</span>     <span class="kw">import</span> <span class="var">docker</span><span class="op">,</span> <span class="var">kubernetes</span><span class="op">,</span> <span class="var">terraform</span></span>
+<span class="line"><span class="kw">from</span> <span class="var">cloud</span>     <span class="kw">import</span> <span class="var">AWS</span><span class="op">,</span> <span class="var">GCP</span><span class="op">,</span> <span class="var">Azure</span></span>
+<span class="line"> </span>
+<span class="line"><span class="dec">@dataclass</span></span>
+<span class="line hl"><span class="kw">class</span> <span class="cls">Engineer</span><span class="op">:</span></span>
+<span class="line">    <span class="var">name</span>    <span class="op">:</span> <span class="fn">str</span> <span class="op">=</span> <span class="str">"Hafiz Muhammad Salman"</span></span>
+<span class="line">    <span class="var">role</span>    <span class="op">:</span> <span class="fn">list</span> <span class="op">=</span> <span class="op">[</span></span>
+<span class="line">        <span class="str">"Cloud DevOps Engineer"</span><span class="op">,</span></span>
+<span class="line">        <span class="str">"Linux System Administrator"</span><span class="op">,</span></span>
+<span class="line">    <span class="op">]</span></span>
+<span class="line">    <span class="var">email</span>   <span class="op">:</span> <span class="fn">str</span> <span class="op">=</span> <span class="str">"hafizmuhammadsalman13@gmail.com"</span></span>
+<span class="line">    <span class="var">mobile</span>  <span class="op">:</span> <span class="fn">str</span> <span class="op">=</span> <span class="str">"+92 314 356 3640"</span></span>
+<span class="line"> </span>
+<span class="line">    <span class="var">cloud</span>   <span class="op">:</span> <span class="fn">list</span> <span class="op">=</span> <span class="op">[</span><span class="str">"AWS"</span><span class="op">,</span> <span class="str">"GCP"</span><span class="op">,</span> <span class="str">"Azure"</span><span class="op">]</span></span>
+<span class="line">    <span class="var">iac</span>     <span class="op">:</span> <span class="fn">list</span> <span class="op">=</span> <span class="op">[</span><span class="str">"Terraform"</span><span class="op">,</span> <span class="str">"Ansible"</span><span class="op">,</span> <span class="str">"CloudFormation"</span><span class="op">]</span></span>
+<span class="line">    <span class="var">ci_cd</span>   <span class="op">:</span> <span class="fn">list</span> <span class="op">=</span> <span class="op">[</span><span class="str">"GitHub Actions"</span><span class="op">,</span> <span class="str">"Jenkins"</span><span class="op">,</span> <span class="str">"ArgoCD"</span><span class="op">]</span></span>
+<span class="line">    <span class="var">os</span>      <span class="op">:</span> <span class="fn">list</span> <span class="op">=</span> <span class="op">[</span><span class="str">"RHEL"</span><span class="op">,</span> <span class="str">"Ubuntu"</span><span class="op">,</span> <span class="str">"CentOS"</span><span class="op">,</span> <span class="str">"Debian"</span><span class="op">]</span></span>
+<span class="line">    <span class="var">monitor</span> <span class="op">:</span> <span class="fn">list</span> <span class="op">=</span> <span class="op">[</span><span class="str">"Prometheus"</span><span class="op">,</span> <span class="str">"Grafana"</span><span class="op">,</span> <span class="str">"ELK Stack"</span><span class="op">]</span></span>
+<span class="line"> </span>
+<span class="line">    <span class="kw">def</span> <span class="fn">greet</span><span class="op">(</span><span class="var">self</span><span class="op">)</span> <span class="op">-&gt;</span> <span class="fn">str</span><span class="op">:</span></span>
+<span class="line">        <span class="kw">return</span> <span class="op">(</span></span>
+<span class="line">            <span class="str">f"Hey 👋  I'm <span class="op">{</span><span class="var">self</span><span class="op">.</span><span class="var">name</span><span class="op">}</span>"</span></span>
+<span class="line">            <span class="str">f" — automating infra &amp; scaling systems."</span></span>
+<span class="line">        <span class="op">)</span></span>
+<span class="line"> </span>
+<span class="line"><span class="cmt"># ── Entry Point ──────────────────────────────────────────</span></span>
+<span class="line"><span class="kw">if</span> <span class="var">__name__</span> <span class="op">==</span> <span class="str">"__main__"</span><span class="op">:</span></span>
+<span class="line">    <span class="var">me</span> <span class="op">=</span> <span class="cls">Engineer</span><span class="op">()</span></span>
+<span class="line">    <span class="fn">print</span><span class="op">(</span><span class="var">me</span><span class="op">.</span><span class="fn">greet</span><span class="op">())</span></span>
+<span class="line">    <span class="fn">deploy</span><span class="op">(</span><span class="var">me</span><span class="op">.</span><span class="var">cloud</span><span class="op">,</span> <span class="var">env</span><span class="op">=</span><span class="str">"production"</span><span class="op">)</span>  <span class="cmt"># 🚀</span></span>
+<span class="line">    <span class="fn">monitor</span><span class="op">(</span><span class="var">me</span><span class="op">.</span><span class="var">monitor</span><span class="op">)</span>               <span class="cmt"># 📊</span></span>
+<span class="line">    <span class="cmt"># always on-call. always shipping. ✅</span></span>
+<span class="line"><span class="cursor"></span></span>
+        </div>
+      </div>
+    </div>
+
+    <!-- Divider -->
+    <div class="divider"></div>
+
+    <!-- Right: Info panel -->
+    <div class="info-panel">
+
+      <!-- Avatar + Name -->
+      <div class="avatar-row fade-in">
+        <div class="avatar">
+          <div class="avatar-inner">HMS</div>
+          <div class="online-dot"></div>
+        </div>
+        <div class="name-block">
+          <div class="fullname">Hafiz Muhammad Salman</div>
+          <div class="handle"><span>@</span>hafizmuhammadsalman</div>
+        </div>
+      </div>
+
+      <!-- Role badges -->
+      <div class="badges fade-in d2">
+        <span class="badge blue">☁ Cloud DevOps Engineer</span>
+        <span class="badge green">🐧 Linux SysAdmin</span>
+        <span class="badge orange">⚙ Infrastructure Automation</span>
+      </div>
+
+      <!-- Contact -->
+      <div class="section-label slide-right d3">Contact</div>
+
+      <div class="contact-row slide-right d4">
+        <div class="contact-icon">
+          <svg viewBox="0 0 24 24" fill="none" stroke="#79c0ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <rect x="2" y="4" width="20" height="16" rx="2"/>
+            <path d="M22 7l-10 7L2 7"/>
+          </svg>
+        </div>
+        <span class="contact-val">hafizmuhammadsalman13@gmail.com</span>
+      </div>
+
+      <div class="contact-row slide-right d5">
+        <div class="contact-icon">
+          <svg viewBox="0 0 24 24" fill="none" stroke="#79c0ff" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <path d="M22 16.92v3a2 2 0 01-2.18 2 19.79 19.79 0 01-8.63-3.07A19.5 19.5 0 013.07 9.81a19.79 19.79 0 01-3.07-8.67A2 2 0 012 2h3a2 2 0 012 1.72c.127.96.361 1.903.7 2.81a2 2 0 01-.45 2.11L6.09 9.91a16 16 0 006 6l1.27-1.27a2 2 0 012.11-.45c.907.339 1.85.573 2.81.7A2 2 0 0122 16.92z"/>
+          </svg>
+        </div>
+        <span class="contact-val">+92 314 356 3640</span>
+      </div>
+
+      <!-- Skills -->
+      <div class="section-label slide-right d6" style="margin-top:12px;">Tech Stack</div>
+
+      <div class="skill-grid">
+        <div class="skill-item fade-in d5"><span class="skill-dot g"></span>Docker / Kubernetes</div>
+        <div class="skill-item fade-in d5"><span class="skill-dot b"></span>AWS · GCP · Azure</div>
+        <div class="skill-item fade-in d6"><span class="skill-dot o"></span>Terraform / Ansible</div>
+        <div class="skill-item fade-in d6"><span class="skill-dot p"></span>CI/CD Pipelines</div>
+        <div class="skill-item fade-in d7"><span class="skill-dot y"></span>Bash · Python · YAML</div>
+        <div class="skill-item fade-in d7"><span class="skill-dot g"></span>RHEL · Ubuntu · CentOS</div>
+        <div class="skill-item fade-in d8"><span class="skill-dot b"></span>Prometheus · Grafana</div>
+        <div class="skill-item fade-in d8"><span class="skill-dot o"></span>Nginx · HAProxy · DNS</div>
+      </div>
+
+    </div>
+  </div>
+
+  <!-- Status bar -->
+  <div class="statusbar">
+    <span>● main</span>
+    <span class="sep">|</span>
+    <span>Python 3.11</span>
+    <span class="sep">|</span>
+    <span>38 lines</span>
+    <span class="sep">|</span>
+    <span>UTF-8</span>
+    <span class="sep">|</span>
+    <span>⚡ Ln 38, Col 1</span>
+    <span class="sep">|</span>
+    <span style="margin-left:auto;">🚀 Ready to Deploy</span>
+  </div>
+
+</div>
+
+</body>
+</html>
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=350
   &color=gradient
