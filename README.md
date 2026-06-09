@@ -116,8 +116,6 @@ I am continuously building my skills in:
 
 </div>
 
----
-
 # 🚀 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=msalman199&theme=tokyo-night&hide_border=true"/>
