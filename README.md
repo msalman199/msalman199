@@ -109,7 +109,6 @@ I am continuously building my skills in:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=msalman199&theme=transparent&utcOffset=5" />
 
  🔥 GitHub Streak Stats
-
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=msalman199&theme=tokyonight&hide_border=true"/>
