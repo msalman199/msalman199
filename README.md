@@ -109,11 +109,18 @@ I am continuously building my skills in:
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=msalman199&theme=transparent&utcOffset=5" />
 
  🔥 GitHub Streak Stats
- 
-<div align="center">
+ # 🚀 GitHub Stats Dashboard
 
-<img src="https://streak-stats.demolab.com?user=msalman199&theme=tokyonight&hide_border=true"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=msalman199&show_icons=true&theme=tokyonight" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msalman199&layout=compact&theme=tokyonight" height="160px"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=msalman199&theme=tokyonight" height="200px"/>
+</p>
+
+
 # 🚀 Contribution Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=msalman199&theme=tokyo-night&hide_border=true"/>
