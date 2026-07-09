@@ -1,123 +1,135 @@
 
-  
+
+
+</p>
+<h1 align="center">👋 Welcome to My GitHub Profile</h1>
+<p align="center">
+
+</p>
+
+
+
+# ☁️ Cloud DevOps Engineer & 🐧 Linux Administrator
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Cloud+DevOps+Engineer;Linux+System+Administrator;Automation+%7C+CI%2FCD+%7C+Infrastructure+as+Code;Ansible+%7C+Docker+%7C+Kubernetes;AWS+%7C+Linux+%7C+Bash+Scripting" alt="Typing SVG" />
+
 
 <div align="center">
-
-# 👋 Hafiz Muhammad Salman
-
-### ☁️ Cloud DevOps Engineer & 🐧 Linux System Administrator
 
 ![Linux](https://img.shields.io/badge/Linux-Administrator-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![DevOps](https://img.shields.io/badge/DevOps-Engineer-2496ED?style=for-the-badge&logo=azuredevops&logoColor=white)
-![Automation](https://img.shields.io/badge/Automation-CI%2FCD-CD2027?style=for-the-badge&logo=githubactions&logoColor=white)
-![Infrastructure](https://img.shields.io/badge/Infrastructure-as%20Code-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-
-📍 Multan, Pakistan &nbsp;|&nbsp; 🏢 AL-Nafi &nbsp;|&nbsp; 🔗 [LinkedIn](https://www.linkedin.com/in/muhammad-salman-519359350)
+![DevOps](https://img.shields.io/badge/DevOps-Engineer-blue?style=for-the-badge&logo=azuredevops)
+![Ansible](https://img.shields.io/badge/Automation-Ansible-red?style=for-the-badge&logo=ansible)
+![Docker](https://img.shields.io/badge/Container-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Orchestration-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/Cloud-AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Terraform](https://img.shields.io/badge/IaC-Terraform-7B42BC?style=for-the-badge&logo=terraform)
+![Git](https://img.shields.io/badge/Version_Control-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=320
+  &color=gradient
+  &customColorList=6,14,20,24,30
+  &text=Hafiz%20Muhammad%20Salman
+  &fontColor=ffffff
+  &fontSize=50
+  &fontAlign=50
+  &fontAlignY=40
+  &desc=AI%20Operations%20Diploma%20Student%20%7C%20Al%20Nafi
+  &descAlign=50
+  &descAlignY=60
+  &animation=fadeIn"
+  />
+</p>
 
 ---
 
-## 📈 Contribution Graph
+## 🙋‍♂️ About Me
+
+Hello! 👋  
+My name is **Hafiz Muhammad Salman**.
+
+I am currently pursuing a **Diploma in Artificial Intelligence Operations (AIOps)** from **Al Nafi**, which is an industry-focused program designed to build strong skills in modern IT, Cloud, DevOps, and AI-driven infrastructure management.
+
+# 🚀 Diploma in Artificial Intelligence Operations (RQF Level 6)
+
+![AI Ops Banner](https://img.shields.io/badge/Diploma-AI%20Operations-blue?style=for-the-badge)
+![RQF Level](https://img.shields.io/badge/RQF-Level%206-red?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Linux-Admin-yellow?style=for-the-badge&logo=linux)
+![DevOps](https://img.shields.io/badge/DevOps-Engineer-green?style=for-the-badge&logo=devops)
+![Ansible](https://img.shields.io/badge/Ansible-Automation-black?style=for-the-badge&logo=ansible)
+![Cloud](https://img.shields.io/badge/Cloud-Computing-orange?style=for-the-badge&logo=icloud)
+
+
+## 🎓 My Education Path
+
+- 📘 Diploma: Artificial Intelligence Operations (AIOps)
+- 🏫 Institute: Al Nafi
+- 🎯 Level: RQF Level 6 (Bachelor Equivalent)
+- 💻 Focus Areas:
+  - Cloud Computing ☁️
+  - DevOps Automation ⚙️
+  - Linux Administration 🐧
+  - Cyber Security 🔐
+  - Infrastructure as Code 📦
+  - AI in IT Operations 🤖
+
+---
+
+## 🚀 What I Am Learning
+
+I am continuously building my skills in:
+
+- 🐧 Linux System Administration
+- ⚙️ Ansible Automation & Configuration Management
+- ☁️ Cloud Infrastructure Concepts
+- 🔐 Security Hardening (SELinux, Firewall, SSH)
+- 📊 Monitoring & Logging Systems
+- 🤖 AI-driven IT Operations (AIOps concepts)
+### 🛠️ Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,linux,bash,python,nodejs,nextjs,flutter,firebase,supabase,mysql,postgres,redis,git,github,githubactions,jenkins,ansible,nginx,prometheus,grafana,tensorflow,pytorch,opencv,vscode,vercel,perline=14" />
+</p>
+
+> *"Great products need more than code - they need infrastructure built to survive production."*
+
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0382.gif" alt="animated line" width="100%" height="2" />
+
+## 📊 GitHub Analytics
 
 <div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=msalman199&theme=transparent" />
+  <br><br>
 
-![msalman199's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=msalman199&theme=tokyo-night&hide_border=true&area=true&custom_title=Hafiz%20Muhammad%20Salman's%20Contribution%20Graph)
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=msalman199&theme=transparent" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=msalman199&theme=transparent" />
 
-</div>
+  <br><br>
 
-This graph tracks daily commit activity across all public repositories — a live view of consistency over time rather than a single point-in-time snapshot. Denser, greener clusters mark active development sprints; gaps mark planning, learning, or offline work that doesn't show up as commits.
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=msalman199&theme=transparent" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=msalman199&theme=transparent&utcOffset=5" />
 
----
+ 
+ # 🚀 GitHub Stats Dashboard
 
-## 🔥 Streak & Commit Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=msalman199&show_icons=true&theme=tokyonight" height="160px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msalman199&layout=compact&theme=tokyonight" height="160px"/>
+</p>
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=msalman199&theme=tokyonight" height="200px"/>
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=msalman199&theme=tokyonight&hide_border=true)
 
-</div>
+# 🚀 Contribution Graph
 
-<table align="center">
-<tr>
-<td valign="top" width="50%">
-
-### 📊 Overview Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=msalman199&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-</td>
-<td valign="top" width="50%">
-
-### 🧠 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=msalman199&layout=compact&theme=tokyonight&hide_border=true)
-
-</td>
-</tr>
-</table>
-
----
-
-## 🧾 Profile Summary
-
-<div align="center">
-
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=msalman199&theme=tokyonight)
-
-![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=msalman199&theme=tokyonight&utcOffset=5)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=msalman199&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
-| Metric | Value |
-|---|---|
-| 👥 Followers | 29 |
-| 👤 Following | 15 |
-| 📦 Public Repositories | 48 |
-| ⭐ Stars Earned | 41 |
-| 🏢 Organization | AL-Nafi |
-| 📍 Location | Multan, Pakistan |
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=msalman199&label=PROFILE+VIEWS&color=blue&style=for-the-badge" alt="Profile Views" /> </p> 
 
----
-
-## 🧰 Tech Stack Behind the Commits
-
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Terraform](https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Bash](https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Ansible](https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![Prometheus](https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-
----
-
-## 🗂️ Where the Commits Are Landing
-
-Recent activity is concentrated in the **Al-Razzaq Programme** repositories — a data engineering and automation track spanning ingestion pipelines, big data processing, analytics, backend services, and web automation.
-
-| Repository | Focus |
-|---|---|
-| [`Data-Ingestion-and-ETL_ELT-Pipelines`](https://github.com/msalman199/Data-Ingestion-and-ETL_ELT-Pipelines) | Python-based ETL/ELT pipeline design |
-| [`Big-Data-Processing-with-Apache-Spark`](https://github.com/msalman199/Big-Data-Processing-with-Apache-Spark) | Distributed data processing with Spark |
-| [`Analytics-at-Scale-with-ClickHouse`](https://github.com/msalman199/Analytics-at-Scale-with-ClickHouse) | High-throughput analytical querying |
-| [`Backend-Data-Services-and-APIs`](https://github.com/msalman199/Backend-Data-Services-and-APIs) | Python backend services & API design |
-| [`Automation-Web-Scraping-and-Portals`](https://github.com/msalman199/Automation-Web-Scraping-and-Portals) | Python automation & web scraping |
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=msalman199&label=PROFILE+VIEWS&color=blue&style=for-the-badge)
-
-⭐ **Consistency over intensity — every green square is infrastructure getting a little more reliable.** ⭐
-
-</div>
+<p align="center">
+  ⭐ Thanks for visiting my profile ⭐
+</p>
