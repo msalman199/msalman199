@@ -111,8 +111,6 @@ I am continuously building my skills in:
 
  
  # 🚀 GitHub Stats Dashboard
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=msalman199&show_icons=true&theme=tokyonight" height="160px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=msalman199&layout=compact&theme=tokyonight" height="160px"/>
 </p>
@@ -120,7 +118,6 @@ I am continuously building my skills in:
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=msalman199&theme=tokyonight" height="200px"/>
 </p>
-
 
 # 🚀 Contribution Graph
 
