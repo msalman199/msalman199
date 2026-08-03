@@ -95,20 +95,6 @@ I am continuously building my skills in:
 
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0382.gif" alt="animated line" width="100%" height="2" />
 
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=msalman199&theme=transparent" />
-  <br><br>
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=msalman199&theme=transparent" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=msalman199&theme=transparent" />
-
-  <br><br>
-
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=msalman199&theme=transparent" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=msalman199&theme=transparent&utcOffset=5" />
-
  
  # 🚀 GitHub Stats Dashboard
   <img src="https://github-readme-stats.vercel.app/api?username=msalman199&show_icons=true&theme=tokyonight" height="160px"/>
