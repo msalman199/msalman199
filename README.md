@@ -105,19 +105,7 @@ I continuously improve my technical skills in:
 - 📝 Bash Scripting
 - 🔄 Git & GitHub
 
----
-# 🚀 GitHub Analytics
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=msalman199&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=F78166&ring_color=58A6FF&theme=transparent"/>
-  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msalman199&layout=compact&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&theme=transparent"/>
-</p>
-
-<p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=msalman199&theme=transparent&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=F78166&currStreakLabel=58A6FF&sideNums=C9D1D9&currStreakNum=FFFFFF&dates=8B949E&sideLabels=C9D1D9"/>
-</p>
-
----
 
 # 📊 Contribution Graph
 
