@@ -105,6 +105,25 @@ I continuously improve my technical skills in:
 - 📝 Bash Scripting
 - 🔄 Git & GitHub
 
+# 🔥 GitHub Streak
+
+Track my daily coding consistency and contribution history through my GitHub streak. Every contribution represents continuous learning, hands-on practice, and growth in Cloud, DevOps, Linux, Automation, and Infrastructure as Code.
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=msalman199&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=00E5FF&fire=FF9D00&currStreakLabel=00E5FF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=A0AEC0&sideLabels=C9D1D9" alt="GitHub Streak Stats" />
+</p>
+
+---
+
+## 📊 What the Streak Shows
+
+- 🔥 **Current Streak** – Consecutive days with GitHub contributions.
+- 🏆 **Longest Streak** – Your highest contribution streak achieved.
+- 📅 **Daily Activity** – Tracks coding consistency over time.
+- 🚀 **Commit History** – Reflects regular development and project updates.
+- 📈 **Contribution Growth** – Demonstrates continuous learning and improvement.
+
+---
 
 
 # 📊 Contribution Graph
