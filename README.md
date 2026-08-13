@@ -105,60 +105,62 @@ I continuously improve my technical skills in:
 - 📝 Bash Scripting
 - 🔄 Git & GitHub
 
-# 🔥 GitHub Streak
 
-Track my daily coding consistency and contribution history through my GitHub streak. Every contribution represents continuous learning, hands-on practice, and growth in Cloud, DevOps, Linux, Automation, and Infrastructure as Code.
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=msalman199&theme=tokyonight&hide_border=true&background=0D1117&stroke=58A6FF&ring=00E5FF&fire=FF9D00&currStreakLabel=00E5FF&sideNums=FFFFFF&currStreakNum=FFFFFF&dates=A0AEC0&sideLabels=C9D1D9" alt="GitHub Streak Stats" />
-</p>
-
----
-
-## 📊 What the Streak Shows
-
-- 🔥 **Current Streak** – Consecutive days with GitHub contributions.
-- 🏆 **Longest Streak** – Your highest contribution streak achieved.
-- 📅 **Daily Activity** – Tracks coding consistency over time.
-- 🚀 **Commit History** – Reflects regular development and project updates.
-- 📈 **Contribution Growth** – Demonstrates continuous learning and improvement.
-
----
-
-
-# 📊 Contribution Graph
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=msalman199&bg_color=0D1117&color=58A6FF&line=3FB950&point=F78166&area=true&area_color=238636&hide_border=true&radius=16"/>
-</p>
-
----
-
-# 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=msalman199&label=PROFILE+VIEWS&color=blue&style=for-the-badge"/>
-</p>
-
----
-
-# 💬 Favorite Quote
-
-> **"Great products need more than code—they need reliable infrastructure built to thrive in production."**
-
----
-
-# 🤝 Let's Connect
-
-- 💻 GitHub: **https://github.com/msalman199**
-- 💼 LinkedIn: **https://www.linkedin.com/in/muhammad-salman-519359350/**
-
----
-
-<h3 align="center">
-⭐ Thank you for visiting my profile! ⭐
 </h3>
 
 <p align="center">
 If you like my projects, don't forget to ⭐ star the repositories and follow my GitHub profile.
 </p>
+
+
+<div align="center">
+
+# 🔥 GitHub Streak & Contribution Stats
+
+### Hafiz Muhammad Salman · [@msalman199](https://github.com/msalman199)
+
+</div>
+
+---
+
+## 🔥 Streak Stats
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=msalman199&theme=tokyonight&hide_border=true)](https://github.com/msalman199)
+
+</div>
+
+## 📊 Contribution Activity Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=msalman199&theme=tokyo-night&hide_border=true)](https://github.com/msalman199)
+
+</div>
+
+
+## 👀 Profile Views
+
+<div align="center">
+
+[![Profile Views](https://komarev.com/ghpvc/?username=msalman199&label=Profile+Views&color=blue&style=for-the-badge)](https://github.com/msalman199)
+
+</div>
+
+---
+
+## 🧩 How to Use This
+
+Drop the markdown blocks above into your profile `README.md` (the special repo named exactly `msalman199/msalman199`). Every image is generated live by third-party badge services keyed off your username — nothing to fill in, nothing to regenerate manually:
+
+| Widget | Service | Updates |
+|---|---|---|
+| 🔥 Streak Stats | [streak-stats.demolab.com](https://streak-stats.demolab.com) | Live, on every page load |
+| 📊 Activity Graph | [github-readme-activity-graph](https://github-readme-activity-graph.vercel.app) | Live |
+| 📈 Stats Card | [github-readme-stats](https://github-readme-stats.vercel.app) | Live |
+| 🏆 Trophies | [github-profile-trophy](https://github-profile-trophy.vercel.app) | Live |
+| 👀 Profile Views | [komarev.com/ghpvc](https://komarev.com/ghpvc) | Live counter |
+
+> 💡 **Tip:** `?theme=tokyonight` can be swapped for any theme these services support (e.g. `dark`, `radical`, `dracula`, `github_dark`) to match the rest of your profile README's color scheme.
+
