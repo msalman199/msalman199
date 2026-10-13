@@ -1,166 +1,91 @@
-<h1 align="center">👋 Welcome to My GitHub Profile</h1>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Cloud+DevOps+Engineer;Linux+System+Administrator;Automation+%7C+CI%2FCD+%7C+Infrastructure+as+Code;Ansible+%7C+Docker+%7C+Kubernetes;AWS+%7C+Linux+%7C+Bash+Scripting" alt="Typing SVG" />
-</p>
-
----
-
-# ☁️ Cloud DevOps Engineer | 🐧 Linux Administrator
-
 <div align="center">
 
-![Linux](https://img.shields.io/badge/Linux-Administrator-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![DevOps](https://img.shields.io/badge/DevOps-Engineer-blue?style=for-the-badge&logo=azuredevops)
-![Ansible](https://img.shields.io/badge/Automation-Ansible-red?style=for-the-badge&logo=ansible)
-![Docker](https://img.shields.io/badge/Container-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Orchestration-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![AWS](https://img.shields.io/badge/Cloud-AWS-232F3E?style=for-the-badge&logo=amazonaws)
-![Terraform](https://img.shields.io/badge/IaC-Terraform-7B42BC?style=for-the-badge&logo=terraform)
-![Git](https://img.shields.io/badge/Version_Control-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Hafiz+Muhammad+Salman;Cloud+DevOps+Engineer+%7C+Linux+System+Administrator;Automation+%7C+CI%2FCD+%7C+Infrastructure+as+Code;Building+and+documenting+hands-on+cybersecurity+labs" alt="Typing SVG" />
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&customColorList=6,14,20,24,30&text=msalman199&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Cloud%20%26%20DevOps%20Engineer%20%7C%20Al%20Nafi&descAlignY=58&animation=fadeIn" width="100%" alt="banner" />
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=320&color=gradient&customColorList=6,14,20,24,30&text=Hafiz%20Muhammad%20Salman&fontColor=ffffff&fontSize=50&fontAlign=50&fontAlignY=40&desc=AI%20Operations%20Diploma%20Student%20%7C%20Al%20Nafi&descAlign=50&descAlignY=60&animation=fadeIn"/>
-</p>
-
----
-
-# 🙋‍♂️ About Me
-
-Hello! I'm **Hafiz Muhammad Salman**, a passionate **Cloud DevOps Engineer** and **Linux System Administrator** with a strong interest in cloud computing, automation, infrastructure as code, and AI-driven IT operations.
-
-I am currently pursuing a **Diploma in Artificial Intelligence Operations (AIOps) – RQF Level 6** at **Al Nafi**, where I continue to build practical skills through hands-on projects and real-world labs.
-
----
-
-# 🎓 Diploma in Artificial Intelligence Operations (RQF Level 6)
-
-<div align="center">
-
-![AIOps](https://img.shields.io/badge/Diploma-AI%20Operations-blue?style=for-the-badge)
-![RQF](https://img.shields.io/badge/RQF-Level%206-red?style=for-the-badge)
-![Linux](https://img.shields.io/badge/Linux-Administration-FCC624?style=for-the-badge&logo=linux)
-![DevOps](https://img.shields.io/badge/DevOps-Engineering-green?style=for-the-badge)
-![Ansible](https://img.shields.io/badge/Automation-Ansible-black?style=for-the-badge&logo=ansible)
-![Cloud](https://img.shields.io/badge/Cloud-Computing-orange?style=for-the-badge)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Muhammad%20Salman-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-salman-519359350)
+[![GitHub followers](https://img.shields.io/github/followers/msalman199?style=for-the-badge&logo=github&color=1a1b26)](https://github.com/msalman199?tab=followers)
+![Location](https://img.shields.io/badge/Multan-Pakistan-9ece6a?style=for-the-badge&logo=googlemaps&logoColor=white)
+![Profile Views](https://komarev.com/ghpvc/?username=msalman199&label=Profile+Views&color=7aa2f7&style=for-the-badge)
 
 </div>
 
 ---
 
-# 📚 Education
+## 👨‍💻 About Me
 
-- 🎓 **Program:** Diploma in Artificial Intelligence Operations (AIOps)
-- 🏫 **Institute:** Al Nafi
-- 📖 **Qualification Level:** RQF Level 6 (Bachelor's Equivalent)
-- 🎯 **Specialization:**
-  - ☁️ Cloud Computing
-  - ⚙️ DevOps Engineering
-  - 🐧 Linux Administration
-  - 🔐 Cyber Security
-  - 📦 Infrastructure as Code (IaC)
-  - 🤖 AI for IT Operations (AIOps)
+```bash
+$ whoami
+hafiz-muhammad-salman
 
----
+$ cat about.txt
+Cloud DevOps Engineer and Linux System Administrator at Al Nafi,
+an online cybersecurity education platform. I run infrastructure,
+automate repetitive work, and turn real lab work into clear,
+step-by-step documentation that learners can actually follow.
+```
 
-# 🚀 Currently Learning
-
-I continuously improve my technical skills in:
-
-- 🐧 Linux System Administration
-- ⚙️ Ansible Automation
-- ☁️ Cloud Infrastructure
-- 🐳 Docker & Containerization
-- ☸️ Kubernetes
-- 🏗️ Terraform (Infrastructure as Code)
-- 🔐 Security Hardening (SELinux, SSH & Firewalls)
-- 📊 Monitoring & Observability
-- 🚀 CI/CD Pipelines
-- 🤖 Artificial Intelligence for IT Operations (AIOps)
+I believe good infrastructure is **automated, reproducible and documented**. My day-to-day sits between **Linux administration**, **containers and Kubernetes**, **CI/CD**, and **infrastructure as code**, and I'm now extending that into **AI-driven IT operations (AIOps)**.
 
 ---
 
-# 🛠️ Technology Stack
+## 🔭 What I'm Focused On
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,terraform,linux,bash,python,nodejs,nextjs,flutter,firebase,supabase,mysql,postgres,redis,git,github,githubactions,jenkins,ansible,nginx,prometheus,grafana,tensorflow,pytorch,opencv,vscode,vercel&perline=14"/>
-</p>
+| | |
+|---|---|
+| 🏢 **Working at** | [Al Nafi](https://alnafi.com), Cloud DevOps Engineer & Linux SysAdmin |
+| 🎓 **Studying** | Diploma in Artificial Intelligence Operations (AIOps), RQF Level 6 |
+| ☸️ **Hands-on with** | Kubernetes, OpenShift, Podman, Ansible, Terraform |
+| 📝 **Writing** | Lab guides and curriculum documentation for cybersecurity training |
+| 🏅 **Preparing** | Red Hat certification tracks (RHCSA, RHCE, Containers, OpenShift Data Foundation) |
 
 ---
 
-# 💡 Core Skills
-
-- ☁️ Cloud Computing (AWS)
-- 🐧 Linux Administration
-- ⚙️ DevOps Practices
-- 🚀 CI/CD Automation
-- 🐳 Docker
-- ☸️ Kubernetes
-- 📦 Terraform
-- 🔧 Ansible
-- 🔐 Cyber Security
-- 📊 Monitoring & Logging
-- 📝 Bash Scripting
-- 🔄 Git & GitHub
-
-
-</h3>
-
-<p align="center">
-If you like my projects, don't forget to ⭐ star the repositories and follow my GitHub profile.
-</p>
-
+## 🛠️ Tech Stack
 
 <div align="center">
 
-# 🔥 GitHub Streak & Contribution Stats
-
-### Hafiz Muhammad Salman · [@msalman199](https://github.com/msalman199)
+<img src="https://skillicons.dev/icons?i=linux,bash,docker,kubernetes,ansible,terraform,aws,git,github,githubactions,jenkins,nginx,prometheus,grafana,python,vscode&perline=8" alt="tech stack" />
 
 </div>
 
 ---
 
-## 🔥 Streak Stats
+## 📦 Featured Repositories
+
+| Repository | Focus |
+|---|---|
+| [Red-Hat-Certified-Specialist-in-OpenShift-Data-Foundation-exam](https://github.com/msalman199/Red-Hat-Certified-Specialist-in-OpenShift-Data-Foundation-exam) | OpenShift Data Foundation (EX370) labs on Al Nafi cloud |
+| [Red-Hat-Enterprise-Linux-Automation-with-Ansible](https://github.com/msalman199/Red-Hat-Enterprise-Linux-Automation-with-Ansible) | RHEL automation with Ansible playbooks and Jinja templates |
+| [Red-Hat-Certified-Engineer-RHCE-](https://github.com/msalman199/Red-Hat-Certified-Engineer-RHCE-) | RHCE labs and automation |
+| [Red-Hat--System-Administrator-RHCSA-](https://github.com/msalman199/Red-Hat--System-Administrator-RHCSA-) | RHCSA system administration labs |
+| [Red-Hat-OpenShift-Administration-II-Configuring-a-Production-Cluster](https://github.com/msalman199/Red-Hat-OpenShift-Administration-II-Configuring-a-Production-Cluster) | Production OpenShift cluster configuration |
+| [-Red-Hat-Certified-Specialist-in-Containers](https://github.com/msalman199/-Red-Hat-Certified-Specialist-in-Containers) | Containers specialist exam labs |
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=msalman199&theme=tokyonight&hide_border=true)](https://github.com/msalman199)
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=msalman199&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=msalman199&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
 
-</div>
+<img src="https://streak-stats.demolab.com/?user=msalman199&theme=tokyonight&hide_border=true" alt="streak" />
 
-## 📊 Contribution Activity Graph
-
-<div align="center">
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=msalman199&theme=tokyo-night&hide_border=true)](https://github.com/msalman199)
-
-</div>
-
-
-## 👀 Profile Views
-
-<div align="center">
-
-[![Profile Views](https://komarev.com/ghpvc/?username=msalman199&label=Profile+Views&color=blue&style=for-the-badge)](https://github.com/msalman199)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=msalman199&theme=tokyo-night&hide_border=true" alt="activity graph" width="100%" />
 
 </div>
 
 ---
 
-## 🧩 How to Use This
+## 🤝 Let's Connect
 
-Drop the markdown blocks above into your profile `README.md` (the special repo named exactly `msalman199/msalman199`). Every image is generated live by third-party badge services keyed off your username — nothing to fill in, nothing to regenerate manually:
+I'm always happy to talk DevOps, Linux, Kubernetes or cybersecurity education. Reach out on [LinkedIn](https://www.linkedin.com/in/muhammad-salman-519359350), and if a repo helped you, a ⭐ is appreciated.
 
-| Widget | Service | Updates |
-|---|---|---|
-| 🔥 Streak Stats | [streak-stats.demolab.com](https://streak-stats.demolab.com) | Live, on every page load |
-| 📊 Activity Graph | [github-readme-activity-graph](https://github-readme-activity-graph.vercel.app) | Live |
-| 📈 Stats Card | [github-readme-stats](https://github-readme-stats.vercel.app) | Live |
-| 🏆 Trophies | [github-profile-trophy](https://github-profile-trophy.vercel.app) | Live |
-| 👀 Profile Views | [komarev.com/ghpvc](https://komarev.com/ghpvc) | Live counter |
+<div align="center">
 
-> 💡 **Tip:** `?theme=tokyonight` can be swapped for any theme these services support (e.g. `dark`, `radical`, `dracula`, `github_dark`) to match the rest of your profile README's color scheme.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=gradient&customColorList=6,14,20,24,30&section=footer" width="100%" alt="footer" />
 
+</div>
