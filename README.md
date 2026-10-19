@@ -144,13 +144,3 @@ I believe good infrastructure is **automated, reproducible and documented**. My 
 
 ---
 
-## 🤝 Let's Connect
-
-I'm always happy to talk DevOps, Linux, Kubernetes or cybersecurity education. Reach out on [LinkedIn](https://www.linkedin.com/in/muhammad-salman-519359350), and if a repo helped you, a ⭐ is appreciated.
-
-<div align="center">
-
-<!-- FOOTER BANNER: same service with section=footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:00C2FF,55:1a1b26,100:0d1117&section=footer" width="100%" alt="footer" />
-
-</div>
